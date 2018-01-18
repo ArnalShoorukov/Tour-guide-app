@@ -1,0 +1,127 @@
+<resources>
+
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Bishkek City</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_do">Do</string>
+
+    <!-- Category name for the vocabulary places for colors [CHAR LIMIT=20] -->
+    <string name="category_eat">Eat</string>
+
+    <!-- Category name for the vocabulary places for numbers [CHAR LIMIT=20] -->
+    <string name="category_sleep">Sleep</string>
+
+    <!-- Category name for the vocabulary places for family members [CHAR LIMIT=20] -->
+    <string name="category_See">See</string>
+
+    <!--Do category-->
+
+    <!--1. The ultimate Bishkek City Tour -->
+    <string name="do_name">The ultimate Bishkek City Tour </string>
+    <string name="ultimate_description">Bishkek is the city of my life; a place with its unique architecture imprinted by the Soviet and Modern era. A city of contrasts that can suit anyone s needs; whether it is a food gourmet or an art amateur.Right at the heart of the city is the Ala-Too square. Against the backdrop of white mountainous peaks it looks quite impressive.</string>
+    <string name="ultimate_phone">+1-866-844-6783</string>
+    <string name="ultimate_address">pick up/drop off is flexible.</string>
+
+
+<!--2.Trekking -->
+    <string name="trekking_name">Trekking Union of Kyrgyzstan</string>
+    <string name="trekking_description">This trekking club organizes one day or longer public treks or hikes in the mountains around Bishkek, for just few hundreds soms a day, including transport to/from the start of the trek and guide. Food and equipment you should bring with you, though probably you could rent some equipment from them. Usually size of the group is 10+ people, both locals and expats. Booking few days in advance is better, since group size is limited by number of the seats in the bus. They mostly have treks on weekends or holidays. Sometimes they have other outdoor activities like rafting etc. Their website have events schedule in English.</string>
+    <string name="trekking_phone">+996 312 909115 </string>
+    <string name="trekking_address">Kievskaya 168 (crossroad Turuspekova)</string>
+
+    <!--3.Iron Horse Nomads -->
+    <string name="horse_name">Iron Horse Nomads</string>
+    <string name="horse_description">Provides a variety of tours and rental services near Bishkek and throughout Kyrgyzstan. They are developing a cross country ski program near Kegeti for winter Nordic skiing. You can arrange ski trips through email or in their office. For their tour services they offer a flat rate car with driver so that you can plan your own trip. Motorcycles are also available. Staff speak English and the company is owned by an American expat.</string>
+    <string name="horse_phone">+996 555 800 278</string>
+    <string name="horse_address">49 Turusbekova (crossroad Kievskaya)</string>
+
+
+
+
+
+    <!--See category-->
+    <!--1. Ala-Too Square-->
+    <string name="alatoo_name">Ala-Too Square</string>
+    <string name="alatoo_description">The main city square is a vast expanse of concrete that ceased to be called Lenin square in 1991, and is the site of frequent political demonstrations and regular festivals. A statue of Lenin was the focal point until 2003, before he was banished to a much less conspicuous location behind the museum and replaced by a statue of Erkidik (freedom). At night many vendors set up photograph and karaoke booths, and theres a synchronised sound and light show in time with the fountains, however travellers should avoid visiting the square after dark. There is also a military monument with an hourly changing of guards.</string>
+    <string name="alatoo_phone">****</string>
+    <string name="alatoo_address">Center of City</string>
+
+    <!--2. State Historical Museum-->
+
+    <string name="mus_name">Trekking Union of Kyrgyzstan</string>
+    <string name="mus_description">This museum sits between Ala-Too Square and the Parliament building. On the south side is an enormous statue of Lenin that was moved from the north side of the building after the Soviet Era. The bottom story of this three floor museum displays seasonal exhibits, while the second highlights Soviet-era achievements during the Communist Era. The top floor showcases the history and culture of the Kyrgyz people. </string>
+    <string name="mus_phone">Entry costs KGS150. Closed Mondays.</string>
+    <string name="mus_address">between Ala-Too Square and the Parliament building</string>
+    Osh Bazaar
+
+    <!--3. Osh Bazaar -->
+    <string name="osh_name">Osh Bazaar</string>
+    <string name="osh_description">If you are looking for a fresh sheeps head, locally made Korean picked salad, shashlik or any other type of Kyrgyz snack, this is the citys best known food bazaar. Although its certainly not Central Asias most colourful bazaar, there are hundreds of products to choose from, especially in the spring and summer months when produce is fresh from farms in the outskirts of town. There is a separate clothes market south of the main produce bazaar. To get there you can take trolleybus 14 on Chuy, bus 20 or 24 on Kiev or 42 from Soviet.</string>
+    <string name="osh_phone">***</string>
+    <string name="osh_address">Kulieva/Panfilova street</string>
+
+    <!--4. American University-->
+    <string name="un_name">American University of Central Asia (AUCA)</string>
+    <string name="un_description">Founded in 1993, AUCA develops future leaders for the democratic transformation of Central Asia. American University of Central Asia is an international, multi-disciplinary learning community in the American liberal arts tradition. Its curriculum includes the Preparatory Program (New Generation Academy), twelve undergraduate majors and three graduate programs. In addition to its top-flight academic programs, AUCA is committed to freedom of expression, critical inquiry and academic honesty. AUCA is the first university in Central Asia to offer US accredited degrees in liberal arts through a partnership with Bard College in the United States. In addition to Bard, AUCA maintains partnerships with a number of universities and organizations worldwide.</string>
+    <string name="un_phone">+996 312 661 113</string>
+    <string name="un_address">205 Abdumomunov</string>
+
+
+    <!--Eat category-->
+
+    <!--1. Fakir-->
+
+    <string name="fakir_name">Fakir</string>
+    <string name="fakir_description">Provides authentic and safe traditional Kyrgyz food and is very popular with locals. Good sized portions and excellent prices. Open for lunch and dinner. Beer and non-smoking areas available.</string>
+    <string name="fakir_phone">KGS80-160</string>
+    <string name="fakir_address">Behind Bishkek City shopping mall</string>
+
+
+    <!--2. Faiza-->
+
+    <string name="faiza_name">Faiza</string>
+    <string name="faiza_description"> Excellent local food frequented by locals. Great samsas and laghman (noodles). Dirt cheap. </string>
+    <string name="faiza_phone">KGS80-160</string>
+    <string name="faiza_address">Jibek Jolu</string>
+
+    <!--3. Dolce Vita Pizza-->
+
+    <string name="pizza_name">Dolce Vita Pizza</string>
+    <string name="pizza_description"> One of the good pizza spots in Bishkek. Its thin crust is baked in an open-fire oven; there is also a whole range of Italian dishes and pastas.</string>
+    <string name="pizza_phone">c. KGS250-380</string>
+    <string name="pizza_address">on Akhunbaeva, to the east of Manas, about one block</string>
+
+
+
+    <!--Sleep category-->
+    <!--1. Jannat-->
+
+    <string name="jannat_name">Jannat</string>
+    <string name="jannat_description">checkin: 2PM; checkout: 12PM. This new hotel is located about 20 minutes outside the city center and is home to the Monte Carlo casino. Silk and felt textiles add a bit more of a Kyrgyz feel to the hotel.</string>
+    <string name="jannat_phone">+996 312 911210</string>
+    <string name="jannat_address">Micro Rayon 7</string>
+
+
+    <!--2. Ak Keme-->
+
+    <string name="akkeme_name">Ak Keme</string>
+    <string name="akkeme_description">checkin: 2PM; checkout: 12PM. Upscale hotel about 8km from city centre, offers a conference center, a health club, indoor and outdoor pools with bar access, and spa services.</string>
+    <string name="akkeme_phone">+996 312 540143/44/45/52</string>
+    <string name="akkeme_address">Prospekt Mira 93</string>
+
+
+    <!--3. Hyatt Regency Bishkek-->
+
+    <string name="hayat_name">Hyatt Regency Bishkek</string>
+    <string name="hayat_description">checkin: 12PM; checkout: 3PM. 5-star hotel in business district, largest in the country. Popular with foreign dignitaries and businessmen.</string>
+    <string name="hayat_phone">+996 312 661234</string>
+    <string name="hayat_address">Sovietskaya 191</string>
+
+
+    <!--4. MBA Business Center Hotel-->
+    <string name="mba_name">MBA Business Center Hotel</string>
+    <string name="mba_description">Lots of space, a friendly staff, but questionable comfort and some broken appliances at this hotel located inside an actual business center on the 4th floor. One thing worth noting is the absence of stairs that may bring you to safety in case of a fire: the elevator is the only way in (and out), since the staircase is blocked by a door at the 3rd floor. Anyway, the staff assures that there will be no fire...</string>
+    <string name="mba_phone">+996 312 623120</string>
+    <string name="mba_address">Panfilov 237</string>
+</resources>
